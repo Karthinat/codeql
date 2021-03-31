@@ -6,7 +6,7 @@
   <a href="#books-resources">Resources</a>
 </p>
 
-> CodeQL is GitHub's expressive language and engine for code analysis, which allows you to explore source code to find bugs and security vulnerabilities. During this beginner-friendly workshop, you will learn to write queries in CodeQL to find use-after-free vulnerabilities in open-source C/C++ code.
+> CodeQL is GitHub's expressive language & and engine for code analysis, which allows you to explore source code to find bugs and security vulnerabilities. During this beginner-friendly workshop, you will learn to write queries in CodeQL to find use-after-free vulnerabilities in open-source C/C++ code.
 
 ## :mega: Prerequisites
 - Install [Visual Studio Code](https://code.visualstudio.com/).
